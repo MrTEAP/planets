@@ -3,3 +3,5 @@ Mars is a planet.
 Solely populated by robots.
 
 It is the closest planet to Earth.
+
+It is dry. Or is it ...
