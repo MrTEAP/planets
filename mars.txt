@@ -1,3 +1,5 @@
 Mars is a planet.
 4th planet from Sun.
 Solely populated by robots.
+
+It is the closest planet to Earth.
