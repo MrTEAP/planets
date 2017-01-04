@@ -4,4 +4,8 @@ It has an atmosphere and water and stuff.
 
 It is wet.
 
+<<<<<<< HEAD
 ANALYSIS BAL BLA BLA
+=======
+THIS IS MASTER
+>>>>>>> master
